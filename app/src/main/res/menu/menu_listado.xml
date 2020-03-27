@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Ordenar_genero"
+        android:title="Ordenar por genero" />
+    <item
+        android:id="@+id/ordenar_nombre"
+        android:title="Ordenar A-Z- por nombre" />
+    <item
+        android:id="@+id/invertir_lista"
+        android:title="Invertir la lista" />
+    <item
+        android:id="@+id/eliminar"
+        android:title="Eliminar la primera" />
+</menu>

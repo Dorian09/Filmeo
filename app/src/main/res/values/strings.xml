@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Filmeo</string>
+    <string name="txt_nombre">Type something here</string>
+    <string name="textView">Nombre</string>
+    <string name="textView2">Director</string>
+    <string name="textView3">Idioma</string>
+    <string name="rb_español">Español</string>
+    <string name="rb_ingles">Ingles</string>
+    <string name="textView4">Genero</string>
+    <string name="button">Guardar</string>
+    <string name="button2">Cancelar</string>
+</resources>
